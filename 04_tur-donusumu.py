@@ -1,7 +1,7 @@
 # Birinci örnek - Tam sayı:
 
 dogum_yili= int (input("Doğum yılınızı giriniz:"))
-yas =2024- dogum_yili
+yas = 2024 - dogum_yili
 print(yas) 
 
 
@@ -9,7 +9,7 @@ print(yas)
 # İkinci örnek - Tam sayı:
 
 """
- birinci_sayi =int (input("Birinci sayıyı giriniz;"))
+ birinci_sayi = int (input("Birinci sayıyı giriniz;"))
 ikinci_sayi = int (input("İkinci sayıyı giriniz:"))
 toplam = birinci_sayi + ikinci_sayi
 print("Toplam:",toplam) 
